@@ -29,6 +29,16 @@ Digital Differential Analyzer (цифровой дифференциальный
 #### Алгоритм Ву
 Алгоритм использует механизмы сглаживания при растеризации линии. При этом ступенчатые выступы на линии становятся менее заметны.
 
+### Примеры отрезков приведенных алгоритмов
+![image](https://github.com/user-attachments/assets/4814a07d-c301-436b-b2fd-46a87fb855a8)
+
+### Отладка
+#### Алгоритм ЦДА
+![image](https://github.com/user-attachments/assets/51907b92-b0aa-4522-b843-0b9d3f418dd8)
+
+#### Алгоритм Ву
+![image](https://github.com/user-attachments/assets/2dde399c-e864-40e2-8c10-959dfb4d19f7)
+
 ### Технологии
 Python\
 Tkinter
